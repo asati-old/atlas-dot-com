@@ -1,11 +1,15 @@
 ---
 emoji: "🐛"
 icon: "https://atlas-www-assets.s3.amazonaws.com/icon--unicorn.png"
-name: "Bug Fixes"
+name: "Slack Integration"
 header: "Help Center in Your Brand"
 subheader: "Set up guides and articles to help your customers become pro’s with your product’s offering – all in your company’s brand."
 hero: "https://atlas-www-assets.s3.amazonaws.com/hero--chatbot.png"
 ---
+
+#### Another section
+
+Derp
 
 #### Bug Fixes and Updates
 
